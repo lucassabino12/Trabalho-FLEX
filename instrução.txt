@@ -1,3 +1,1 @@
-Site: https://luquinhasdev.github.io/FlexboxSite.github.io/
-
-Repositório: https://github.com/LuquinhasDev/FlexboxSite.github.io
+https://lucassabino12.github.io/Trabalho-FLEX/
